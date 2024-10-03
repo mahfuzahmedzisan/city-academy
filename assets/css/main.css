@@ -46,6 +46,7 @@ p {
 .tittle h2 {
     font-weight: 700;
     color: var(--primary-color);
+    text-transform: capitalize;
 }
 
 .tittle p {
