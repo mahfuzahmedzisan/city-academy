@@ -1,3 +1,9 @@
+@media only screen and (max-width: 992px) {
+   .course-section{
+      padding: 80px 20px;
+   }
+}
+
 @media only screen and (max-width: 650px) {
 
    /* Review Section  */
